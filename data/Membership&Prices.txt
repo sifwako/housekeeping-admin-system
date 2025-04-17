@@ -1,0 +1,3 @@
+{'Membership name': "1-year membership", "Membership price":10980}
+{'Membership name': "6-months membership", "Membership price":7500}
+{'Membership name': "3-months membership", "Membership price":450}

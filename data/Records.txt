@@ -1,0 +1,10 @@
+{'code': 'sif977', 'fname': 'sifan waktole', 'uname': 'sif', 'passw': 'sif@123', 'addi': 'Abu Dhabi', 'pnum': '0564321234', 'balance': 23456.0, 'acctype': 'T'}
+{'code': 'sha697', 'fname': 'shahad', 'uname': 'shaa@', 'passw': 'sha@1', 'addi': 'Abu Dhabi', 'pnum': '0564321234', 'balance': 0, 'acctype': 'M'}
+{'code': 'Lam112', 'fname': 'Lamya Khamis', 'uname': 'Lam@123', 'passw': '099', 'addi': 'Sharjah', 'pnum': '0543212345', 'balance': 22222.0, 'acctype': 'R'}
+{'code': 'ket225', 'fname': 'ketty', 'uname': 'ket123', 'passw': 'ke09', 'addi': 'Abu Dhabi', 'pnum': '0543212344', 'balance': 45678.0, 'acctype': 'T'}
+{'code': 'mar653', 'fname': 'mark', 'uname': 'marksion', 'passw': '89', 'addi': 'Dubai', 'pnum': '0567899000', 'balance': 0, 'acctype': 'S'}
+{'code': 'sam279', 'fname': 'samba', 'uname': 'sam', 'passw': 'sam123', 'addi': 'Abu Dhabi', 'pnum': '0543212345', 'balance': 0, 'acctype': 'T'}
+{'code': 'sir915', 'fname': 'sirna', 'uname': 'sirank', 'passw': 'sir123', 'addi': 'abu dhabi', 'pnum': '054321234', 'balance': 0, 'acctype': 'S'}
+{'code': 'maj748', 'fname': 'majesty', 'uname': 'maj', 'passw': 'maj123', 'addi': 'Dubai', 'pnum': '0543212345', 'balance': 0, 'acctype': 'R'}
+{'code': 'sha685', 'fname': 'shamsa mohammad', 'uname': 'shams', 'passw': 'sham123', 'addi': 'abu dhabi', 'pnum': '0543212345', 'balance': 0, 'acctype': 'R'}
+{'code': 'sha578', 'fname': 'shamsa', 'uname': 'shamsa123', 'passw': '123', 'addi': 'abu dhabi', 'pnum': '0543213456', 'balance': 23456.0, 'acctype': 'R'}

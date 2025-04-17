@@ -1,0 +1,4 @@
+
+{'usercode': 'Lam112', 'services': {'1-year membership': 10980}, 'totalPrice': 10980}
+{'usercode': 'sif977', 'services': {'1-year membership': 10980}, 'totalPrice': 10980}
+{'usercode': 'sha578', 'services': {'1-year membership': 10980}, 'totalPrice': 10980}

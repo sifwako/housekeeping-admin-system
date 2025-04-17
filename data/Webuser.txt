@@ -1,0 +1,10 @@
+{'usercode': 'sif977', 'username': 'sif', 'userpassword': 'sif@123'}
+{'usercode': 'sha697', 'username': 'shaa@', 'userpassword': 'sha@1'}
+{'usercode': 'Lam112', 'username': 'Lam@123', 'userpassword': '099'}
+{'usercode': 'ket225', 'username': 'ket123', 'userpassword': 'ke09'}
+{'usercode': 'mar653', 'username': 'marksion', 'userpassword': '89'}
+{'usercode': 'sam279', 'username': 'sam', 'userpassword': 'sam123'}
+{'usercode': 'sir915', 'username': 'sirank', 'userpassword': 'sir123'}
+{'usercode': 'maj748', 'username': 'maj', 'userpassword': 'maj123'}
+{'usercode': 'sha685', 'username': 'shams', 'userpassword': 'sham123'}
+{'usercode': 'sha578', 'username': 'shamsa123', 'userpassword': '123'}
