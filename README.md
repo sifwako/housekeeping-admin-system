@@ -17,7 +17,7 @@ An interactive Python-based GUI application for managing customer, employee, and
    ```bash
    git clone https://github.com/your-username/clean-house-system.git
    cd clean-house-system
-2. **Create and activate a virtual environment
+2. **Create and activate a virtual environment**
    ```bash
    python -m venv venv
    source venv/bin/activate        # On Windows: venv\Scripts\activate
